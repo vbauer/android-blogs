@@ -20,6 +20,7 @@
 * Android Official Blog https://officialandroid.blogspot.com
 * Android Police http://www.androidpolice.com
 * Android Power http://www.computerworld.com/blog/android-power/
+* Android Shenanigans http://androidshenanigans.blogspot.pt/
 * Android UI Patterns http://www.androiduipatterns.com
 * Ausdroid http://ausdroid.net
 * Cult of Android http://www.cultofandroid.com
