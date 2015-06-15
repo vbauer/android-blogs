@@ -1,5 +1,8 @@
 # Android Blogs
 
+See also: https://github.com/vbauer/java-blogs
+
+
 ### Groups & Companies
 
 * Androcid http://www.androcid.com
@@ -31,6 +34,7 @@
 * Planet Android http://www.planetandroid.com
 * Talk Android http://www.talkandroid.com
 * Team Android http://www.teamandroid.com
+
 
 ### Individuals
 
