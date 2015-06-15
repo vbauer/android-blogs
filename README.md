@@ -22,8 +22,10 @@
 * Android Power http://www.computerworld.com/blog/android-power/
 * Android UI Patterns http://www.androiduipatterns.com
 * Ausdroid http://ausdroid.net
+* Commons Blog http://commonsware.com/blog
 * Cult of Android http://www.cultofandroid.com
 * Droid Life http://www.droid-life.com
+* Novoda http://novoda.com/blog
 * Phandroid http://phandroid.com
 * Planet Android http://www.planetandroid.com
 * Talk Android http://www.talkandroid.com
@@ -35,13 +37,17 @@
 * Android Developers Backstage http://androidbackstage.blogspot.com
 * Android Social Media http://www.androidsocialmedia.com
 * Android UI/UX http://androiduiux.com
+* Android-er http://android-er.blogspot.com
 * AppCoderz https://appcoderz.com/blog/
 * Chet Haase https://medium.com/@chethaase
+* Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
 * Codedependent http://graphics-geek.blogspot.com
 * Cyril Mottier http://cyrilmottier.com
+* Dan Lew http://blog.danlew.net
 * Diego Torres Milano http://dtmilano.blogspot.com
 * Flavien Laurent http://www.flavienlaurent.com
+* Gabriele Mariotti http://gmariotti.blogspot.com
 * In love with Android http://www.inlovewithandroid.com/android-blog.html
 * Jake Wharton http://jakewharton.com/blog
 * Markus Junginger http://androiddevblog.com
@@ -50,8 +56,9 @@
 * Romain Guy http://www.curious-creature.com/category/android/
 * Roman Nurik https://medium.com/@romannurik
 * Styling Android http://blog.stylingandroid.com
+* Surviving With Android http://www.survivingwithandroid.com
+* TechnoTalkative http://www.technotalkative.com
 * TechnoWorm http://technoworm.com
-* The CommonsBlog http://commonsware.com/blog/
 
 
 ### Contributing Guidelines
