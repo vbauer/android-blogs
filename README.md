@@ -59,7 +59,6 @@
 * Surviving With Android http://www.survivingwithandroid.com
 * TechnoTalkative http://www.technotalkative.com
 * TechnoWorm http://technoworm.com
-* The CommonsBlog http://commonsware.com/blog/
 
 
 ### Contributing Guidelines
