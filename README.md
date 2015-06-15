@@ -22,7 +22,6 @@
 * Android Power http://www.computerworld.com/blog/android-power/
 * Android Shenanigans http://androidshenanigans.blogspot.pt/
 * Android UI Patterns http://www.androiduipatterns.com
-* Android Shenanigans http://androidshenanigans.blogspot.pt/
 * Ausdroid http://ausdroid.net
 * Cult of Android http://www.cultofandroid.com
 * Droid Life http://www.droid-life.com
