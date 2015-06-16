@@ -26,6 +26,7 @@ See also: https://github.com/vbauer/java-blogs
 * Android Shenanigans http://androidshenanigans.blogspot.pt/
 * Android UI Patterns http://www.androiduipatterns.com
 * Ausdroid http://ausdroid.net
+* Bloco https://www.bloco.io/blog
 * Commons Blog http://commonsware.com/blog
 * Cult of Android http://www.cultofandroid.com
 * Droid Life http://www.droid-life.com
