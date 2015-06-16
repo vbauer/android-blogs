@@ -51,6 +51,7 @@ See also: https://github.com/vbauer/java-blogs
 * Cyril Mottier http://cyrilmottier.com
 * Dan Lew http://blog.danlew.net
 * Diego Torres Milano http://dtmilano.blogspot.com
+* Donn Felker and Kaushik Gopal http://fragmentedpodcast.com
 * Flavien Laurent http://www.flavienlaurent.com
 * Gabriele Mariotti http://gmariotti.blogspot.com
 * In love with Android http://www.inlovewithandroid.com/android-blog.html
