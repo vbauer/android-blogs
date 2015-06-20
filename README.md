@@ -59,6 +59,7 @@ See also: https://github.com/vbauer/java-blogs
 * Jake Wharton http://jakewharton.com/blog
 * Markus Junginger http://androiddevblog.com
 * My life with Android http://mylifewithandroid.blogspot.com
+* Nikolay Elenkov http://nelenkov.blogspot.com
 * PTR Android/Programming Blog http://ptrprograms.blogspot.com
 * Romain Guy http://www.curious-creature.com/category/android/
 * Roman Nurik https://medium.com/@romannurik
