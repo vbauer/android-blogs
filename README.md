@@ -63,6 +63,7 @@ See also: https://github.com/vbauer/java-blogs
 * PTR Android/Programming Blog http://ptrprograms.blogspot.com
 * Romain Guy http://www.curious-creature.com/category/android/
 * Roman Nurik https://medium.com/@romannurik
+* Ryan Harter http://ryanharter.com
 * Styling Android http://blog.stylingandroid.com
 * Surviving With Android http://www.survivingwithandroid.com
 * TechnoTalkative http://www.technotalkative.com
