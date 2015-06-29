@@ -30,6 +30,7 @@ See also: https://github.com/vbauer/java-blogs
 * Commons Blog http://commonsware.com/blog
 * Cult of Android http://www.cultofandroid.com
 * Droid Life http://www.droid-life.com
+* FXP http://fxpblog.co
 * Novoda http://novoda.com/blog
 * Phandroid http://phandroid.com
 * Planet Android http://www.planetandroid.com
