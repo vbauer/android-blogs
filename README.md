@@ -67,6 +67,7 @@ See also: https://github.com/vbauer/java-blogs
 * Ryan Harter http://ryanharter.com
 * Styling Android http://blog.stylingandroid.com
 * Surviving With Android http://www.survivingwithandroid.com
+* TheRealJoshua http://www.therealjoshua.com/blog/
 * TechnoTalkative http://www.technotalkative.com
 * TechnoWorm http://technoworm.com
 
