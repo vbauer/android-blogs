@@ -46,6 +46,7 @@ See also: https://github.com/vbauer/java-blogs
 * Android UI/UX http://androiduiux.com
 * Android-er http://android-er.blogspot.com
 * AppCoderz https://appcoderz.com/blog/
+* Blundell http://blog.blundell-apps.com/
 * Chet Haase https://medium.com/@chethaase
 * Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
