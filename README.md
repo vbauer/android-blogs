@@ -68,6 +68,7 @@ See also: https://github.com/vbauer/java-blogs
 * Romain Guy http://www.curious-creature.com/category/android/
 * Roman Nurik https://medium.com/@romannurik
 * Ryan Harter http://ryanharter.com
+* Sriram Ramani http://sriramramani.wordpress.com/
 * Styling Android http://blog.stylingandroid.com
 * Surviving With Android http://www.survivingwithandroid.com
 * TheRealJoshua http://www.therealjoshua.com/blog/
