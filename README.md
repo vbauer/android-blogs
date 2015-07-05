@@ -15,15 +15,15 @@ See also: https://github.com/vbauer/java-blogs
 * Android Advices http://androidadvices.com
 * Android and Me http://androidandme.com
 * Android Authority http://www.androidauthority.com
-* Android Blip http://www.androidblip.com/blog/
+* Android Blip http://www.androidblip.com/blog
 * Android Central http://www.androidcentral.com
 * Android Community http://androidcommunity.com
 * Android Developers Blog https://android-developers.blogspot.com
 * Android Headlines http://www.androidheadlines.com
 * Android Official Blog https://officialandroid.blogspot.com
 * Android Police http://www.androidpolice.com
-* Android Power http://www.computerworld.com/blog/android-power/
-* Android Shenanigans http://androidshenanigans.blogspot.pt/
+* Android Power http://www.computerworld.com/blog/android-power
+* Android Shenanigans http://androidshenanigans.blogspot.pt
 * Android UI Patterns http://www.androiduipatterns.com
 * Ausdroid http://ausdroid.net
 * Bloco https://www.bloco.io/blog
@@ -45,8 +45,8 @@ See also: https://github.com/vbauer/java-blogs
 * Android Social Media http://www.androidsocialmedia.com
 * Android UI/UX http://androiduiux.com
 * Android-er http://android-er.blogspot.com
-* AppCoderz https://appcoderz.com/blog/
-* Blundell http://blog.blundell-apps.com/
+* AppCoderz https://appcoderz.com/blog
+* Blundell http://blog.blundell-apps.com
 * Chet Haase https://medium.com/@chethaase
 * Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
@@ -56,22 +56,22 @@ See also: https://github.com/vbauer/java-blogs
 * Diego Torres Milano http://dtmilano.blogspot.com
 * Donn Felker and Kaushik Gopal http://fragmentedpodcast.com
 * Flavien Laurent http://www.flavienlaurent.com
-* Fernando Cejas http://fernandocejas.com/
+* Fernando Cejas http://fernandocejas.com
 * Gabriele Mariotti http://gmariotti.blogspot.com
 * In love with Android http://www.inlovewithandroid.com/android-blog.html
 * Jake Wharton http://jakewharton.com/blog
-* Jesse Wilson http://publicobject.com/
+* Jesse Wilson http://publicobject.com
 * Markus Junginger http://androiddevblog.com
 * My life with Android http://mylifewithandroid.blogspot.com
 * Nikolay Elenkov http://nelenkov.blogspot.com
 * PTR Android/Programming Blog http://ptrprograms.blogspot.com
-* Romain Guy http://www.curious-creature.com/category/android/
+* Romain Guy http://www.curious-creature.com/category/android
 * Roman Nurik https://medium.com/@romannurik
 * Ryan Harter http://ryanharter.com
-* Sriram Ramani http://sriramramani.wordpress.com/
+* Sriram Ramani http://sriramramani.wordpress.com
 * Styling Android http://blog.stylingandroid.com
 * Surviving With Android http://www.survivingwithandroid.com
-* TheRealJoshua http://www.therealjoshua.com/blog/
+* TheRealJoshua http://www.therealjoshua.com/blog
 * TechnoTalkative http://www.technotalkative.com
 * TechnoWorm http://technoworm.com
 
@@ -89,5 +89,6 @@ Please ensure your pull request match to the following rules:
     * Use the following format: Name Link-with-scheme
       (ex: Android Central http://www.androidcentral.com)
     * Pull request message should be clear.
+    * Do not use slash symbol at the end of URL address (if it is not necessary).
 
 Contributions welcome!
