@@ -56,9 +56,11 @@ See also: https://github.com/vbauer/java-blogs
 * Diego Torres Milano http://dtmilano.blogspot.com
 * Donn Felker and Kaushik Gopal http://fragmentedpodcast.com
 * Flavien Laurent http://www.flavienlaurent.com
+* Fernando Cejas http://fernandocejas.com/
 * Gabriele Mariotti http://gmariotti.blogspot.com
 * In love with Android http://www.inlovewithandroid.com/android-blog.html
 * Jake Wharton http://jakewharton.com/blog
+* Jesse Wilson http://publicobject.com/
 * Markus Junginger http://androiddevblog.com
 * My life with Android http://mylifewithandroid.blogspot.com
 * Nikolay Elenkov http://nelenkov.blogspot.com
