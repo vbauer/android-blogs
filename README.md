@@ -31,11 +31,13 @@ See also: https://github.com/vbauer/java-blogs
 * Cult of Android http://www.cultofandroid.com
 * Droid Life http://www.droid-life.com
 * FXP http://fxpblog.co
+* Hootsuite http://code.hootsuite.com/category/code/android/
 * Novoda http://novoda.com/blog
 * Phandroid http://phandroid.com
 * Planet Android http://www.planetandroid.com
 * Talk Android http://www.talkandroid.com
 * Team Android http://www.teamandroid.com
+* WeddingParty http://nerds.weddingpartyapp.com/tech/categories/android/
 
 
 ### Individuals
