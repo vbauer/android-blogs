@@ -83,10 +83,10 @@ See also: https://github.com/vbauer/java-blogs
 Please ensure your pull request match to the following rules:
 
 * For companies/groups:
-    * Make sure that 80% of content is about Android.
+    * Make sure that 80% of content is about Android and Java.
     * No PR, self-promoting posts.
 * For individual blogs:
-    * Posts should be mostly about Android.
+    * Posts should be mostly about Android and Java.
 * For both of them:
     * Use the following format: Name Link-with-scheme
       (ex: Android Central http://www.androidcentral.com)
