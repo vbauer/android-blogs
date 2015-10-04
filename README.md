@@ -42,11 +42,17 @@ See also: https://github.com/vbauer/java-blogs
 
 ### Individuals
 
+* Alessandro Crugnola http://blog.sephiroth.it
 * AndroidHive http://www.androidhive.info
+* Android Design Patterns http://androiddesignpatterns.blogspot.com
+* Android Developer http://www.therealjoshua.com/blog
 * Android Developers Backstage http://androidbackstage.blogspot.com
 * Android Social Media http://www.androidsocialmedia.com
 * Android UI/UX http://androiduiux.com
 * Android-er http://android-er.blogspot.com
+* Angus Morton http://angusmorton.com
+* Antoine Merle http://antoine-merle.com
+* Antonio Leiva http://antonioleiva.com
 * AppCoderz https://appcoderz.com/blog
 * Blundell http://blog.blundell-apps.com
 * Chet Haase https://medium.com/@chethaase
@@ -55,6 +61,7 @@ See also: https://github.com/vbauer/java-blogs
 * Codedependent http://graphics-geek.blogspot.com
 * Cyril Mottier http://cyrilmottier.com
 * Dan Lew http://blog.danlew.net
+* Dávid Karnok http://akarnokd.blogspot.com
 * Diego Torres Milano http://dtmilano.blogspot.com
 * Donn Felker and Kaushik Gopal http://fragmentedpodcast.com
 * Flavien Laurent http://www.flavienlaurent.com
@@ -63,10 +70,12 @@ See also: https://github.com/vbauer/java-blogs
 * In love with Android http://www.inlovewithandroid.com/android-blog.html
 * Jake Wharton http://jakewharton.com/blog
 * Jesse Wilson http://publicobject.com
+* Joan Zapata http://blog.joanzapata.com
 * Markus Junginger http://androiddevblog.com
 * My life with Android http://mylifewithandroid.blogspot.com
 * Nikolay Elenkov http://nelenkov.blogspot.com
 * PTR Android/Programming Blog http://ptrprograms.blogspot.com
+* Robin Chutaux http://blog.robinchutaux.com
 * Romain Guy http://www.curious-creature.com/category/android
 * Roman Nurik https://medium.com/@romannurik
 * Ryan Harter http://ryanharter.com
