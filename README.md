@@ -56,6 +56,7 @@ See also: https://github.com/vbauer/java-blogs
 * AppCoderz https://appcoderz.com/blog
 * Arjun U. http://arjunu.com
 * Blundell http://blog.blundell-apps.com
+* Carlos Sessa https://medium.com/@Macarse
 * Chet Haase https://medium.com/@chethaase
 * Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
@@ -77,6 +78,10 @@ See also: https://github.com/vbauer/java-blogs
 * Jake Wharton http://jakewharton.com/blog
 * Jesse Wilson http://publicobject.com
 * Joan Zapata http://blog.joanzapata.com
+* Jorge Castillo http://jorgecastillo.xyz
+* JPARDOGO https://medium.com/@jpardogo
+* Kaushik Gopal http://blog.kaush.co
+* Kirill Boyarshinov http://kboyarshinov.com
 * Markus Junginger http://androiddevblog.com
 * Miroslaw Stanek http://frogermcs.github.io
 * My life with Android http://mylifewithandroid.blogspot.com
