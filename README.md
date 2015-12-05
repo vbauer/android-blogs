@@ -55,6 +55,7 @@ See also: https://github.com/vbauer/java-blogs
 * Antonio Leiva http://antonioleiva.com
 * AppCoderz https://appcoderz.com/blog
 * Arjun U. http://arjunu.com
+* Bill Lahti https://blahti.wordpress.com
 * Blundell http://blog.blundell-apps.com
 * Carlos Sessa https://medium.com/@Macarse
 * Chet Haase https://medium.com/@chethaase
@@ -70,7 +71,10 @@ See also: https://github.com/vbauer/java-blogs
 * Donn Felker and Kaushik Gopal http://fragmentedpodcast.com
 * Flavien Laurent http://www.flavienlaurent.com
 * Fernando Cejas http://fernandocejas.com
+* Federico Paolinelli http://fedepaol.github.io
+* Gabor Paller http://mylifewithandroid.blogspot.com
 * Gabriele Mariotti http://gmariotti.blogspot.com
+* Gadget Habit http://michaelevans.org
 * Grokking Android http://www.grokkingandroid.com
 * halfthought https://halfthought.wordpress.com
 * Hannes Dorfmann http://hannesdorfmann.com
@@ -82,8 +86,12 @@ See also: https://github.com/vbauer/java-blogs
 * JPARDOGO https://medium.com/@jpardogo
 * Kaushik Gopal http://blog.kaush.co
 * Kirill Boyarshinov http://kboyarshinov.com
+* Lucas Rocha http://lucasr.org
+* Marko Uberti http://marcouberti.net
 * Markus Junginger http://androiddevblog.com
+* Matt Logan http://mattlogan.me
 * Miroslaw Stanek http://frogermcs.github.io
+* Mouna Cheikhna http://www.mounacheikhna.com
 * My life with Android http://mylifewithandroid.blogspot.com
 * Nikolay Elenkov http://nelenkov.blogspot.com
 * PTR Android/Programming Blog http://ptrprograms.blogspot.com
