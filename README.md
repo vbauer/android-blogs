@@ -32,6 +32,7 @@ See also: https://github.com/vbauer/java-blogs
 * Droid Life http://www.droid-life.com
 * FXP http://fxpblog.co
 * Hootsuite http://code.hootsuite.com/category/code/android/
+* Little Robots http://www.littlerobots.nl/blog/
 * Novoda http://novoda.com/blog
 * Phandroid http://phandroid.com
 * Planet Android http://www.planetandroid.com
@@ -70,6 +71,7 @@ See also: https://github.com/vbauer/java-blogs
 * Dávid Karnok http://akarnokd.blogspot.com
 * Diego Torres Milano http://dtmilano.blogspot.com
 * Donn Felker and Kaushik Gopal http://fragmentedpodcast.com
+* Ernest Micklei http://ernestmicklei.com/
 * Flavien Laurent http://www.flavienlaurent.com
 * Fernando Cejas http://fernandocejas.com
 * Federico Paolinelli http://fedepaol.github.io
@@ -106,6 +108,7 @@ See also: https://github.com/vbauer/java-blogs
 * TheRealJoshua http://www.therealjoshua.com/blog
 * TechnoTalkative http://www.technotalkative.com
 * TechnoWorm http://technoworm.com
+* Wiebe Elsinga http://wiebe-elsinga.com/blog/news/
 
 
 ### Contributing Guidelines
