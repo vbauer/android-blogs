@@ -53,6 +53,7 @@ See also: https://github.com/vbauer/java-blogs
 * Angus Morton http://angusmorton.com
 * Antoine Merle http://antoine-merle.com
 * Antonio Leiva http://antonioleiva.com
+* Antonio Cappiello http://antoniocappiello.com
 * AppCoderz https://appcoderz.com/blog
 * Arjun U. http://arjunu.com
 * Bill Lahti https://blahti.wordpress.com
