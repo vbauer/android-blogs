@@ -98,6 +98,7 @@ See also: https://github.com/vbauer/java-blogs
 * My life with Android http://mylifewithandroid.blogspot.com
 * Nikolay Elenkov http://nelenkov.blogspot.com
 * PTR Android/Programming Blog http://ptrprograms.blogspot.com
+* Piotr Wittchen http://blog.wittchen.biz.pl
 * Robin Chutaux http://blog.robinchutaux.com
 * Romain Guy http://www.curious-creature.com/category/android
 * Roman Nurik https://medium.com/@romannurik
