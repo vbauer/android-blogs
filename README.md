@@ -45,6 +45,7 @@ See also: https://github.com/vbauer/java-blogs
 
 * Alessandro Crugnola http://blog.sephiroth.it
 * AndroidHive http://www.androidhive.info
+* AndroidGig http://androidgig.com
 * Android Design Patterns http://androiddesignpatterns.blogspot.com
 * Android Developer http://www.therealjoshua.com/blog
 * Android Developers Backstage http://androidbackstage.blogspot.com
@@ -94,6 +95,7 @@ See also: https://github.com/vbauer/java-blogs
 * Markus Junginger http://androiddevblog.com
 * Matt Logan http://mattlogan.me
 * Miroslaw Stanek http://frogermcs.github.io
+* MKyong http://www.mkyong.com/tutorials/android-tutorial
 * Mouna Cheikhna http://www.mounacheikhna.com
 * My life with Android http://mylifewithandroid.blogspot.com
 * Nikolay Elenkov http://nelenkov.blogspot.com
