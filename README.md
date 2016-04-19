@@ -62,6 +62,7 @@ See also: https://github.com/vbauer/java-blogs
 * Blundell http://blog.blundell-apps.com
 * Carlos Sessa https://medium.com/@Macarse
 * Chet Haase https://medium.com/@chethaase
+* Chintan Rathod http://chintanrathod.com
 * Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
 * Christian Panadero http://panavtec.me
