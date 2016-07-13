@@ -39,6 +39,7 @@ See also: https://github.com/vbauer/java-blogs
 * Talk Android http://www.talkandroid.com
 * Team Android http://www.teamandroid.com
 * WeddingParty http://nerds.weddingpartyapp.com/tech/categories/android/
+* Future Studio https://futurestud.io/blog/tag/android
 
 
 ### Individuals
