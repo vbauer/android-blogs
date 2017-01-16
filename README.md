@@ -74,6 +74,7 @@ See also: https://github.com/vbauer/java-blogs
 * Dávid Karnok http://akarnokd.blogspot.com
 * Diego Torres Milano http://dtmilano.blogspot.com
 * Donn Felker and Kaushik Gopal http://fragmentedpodcast.com
+* Egor Andreevici https://blog.egorand.me/
 * Ernest Micklei http://ernestmicklei.com/
 * Flavien Laurent http://www.flavienlaurent.com
 * Fernando Cejas http://fernandocejas.com
