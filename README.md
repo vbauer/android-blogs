@@ -85,6 +85,7 @@ See also: https://github.com/vbauer/java-blogs
 * Grokking Android http://www.grokkingandroid.com
 * halfthought https://halfthought.wordpress.com
 * Hannes Dorfmann http://hannesdorfmann.com
+* How2Android http://how2android.com
 * In love with Android http://www.inlovewithandroid.com/android-blog.html
 * Jake Wharton http://jakewharton.com/blog
 * Jesse Wilson http://publicobject.com
