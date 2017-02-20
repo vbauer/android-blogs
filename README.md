@@ -53,6 +53,7 @@ See also: https://github.com/vbauer/java-blogs
 * Android Social Media http://www.androidsocialmedia.com
 * Android UI/UX http://androiduiux.com
 * Android-er http://android-er.blogspot.com
+* Android dev examples https://android-dev-examples.blogspot.com/
 * Angus Morton http://angusmorton.com
 * Antoine Merle http://antoine-merle.com
 * Antonio Leiva http://antonioleiva.com
