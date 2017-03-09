@@ -47,7 +47,7 @@ See also: https://github.com/vbauer/java-blogs
 * Alessandro Crugnola http://blog.sephiroth.it
 * AndroidHive http://www.androidhive.info
 * AndroidGig http://androidgig.com
-* Android Design Patterns http://androiddesignpatterns.blogspot.com
+* Android Design Patterns http://androiddesignpatterns.com
 * Android Developer http://www.therealjoshua.com/blog
 * Android Developers Backstage http://androidbackstage.blogspot.com
 * Android Social Media http://www.androidsocialmedia.com
