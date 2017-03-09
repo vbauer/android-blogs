@@ -45,6 +45,7 @@ See also: https://github.com/vbauer/java-blogs
 ### Individuals
 
 * Alessandro Crugnola http://blog.sephiroth.it
+* André Mion https://medium.com/@andremion
 * AndroidHive http://www.androidhive.info
 * AndroidGig http://androidgig.com
 * Android Design Patterns http://androiddesignpatterns.blogspot.com
