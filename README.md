@@ -61,6 +61,7 @@ See also: https://github.com/vbauer/java-blogs
 * Antonio Cappiello http://antoniocappiello.com
 * AppCoderz https://appcoderz.com/blog
 * Arjun U. http://arjunu.com
+* Bartek Lipinski https://medium.com/@blipinsk
 * Bill Lahti https://blahti.wordpress.com
 * Blundell http://blog.blundell-apps.com
 * Carlos Sessa https://medium.com/@Macarse
