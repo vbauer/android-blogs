@@ -70,6 +70,7 @@ See also: https://github.com/vbauer/java-blogs
 * Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
 * Christian Panadero http://panavtec.me
+* CodeChimp http://blog.codechimp.org
 * Codedependent http://graphics-geek.blogspot.com
 * Cyril Mottier http://cyrilmottier.com
 * Dan Lew http://blog.danlew.net
