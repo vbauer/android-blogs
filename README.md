@@ -33,6 +33,7 @@ See also: https://github.com/vbauer/java-blogs
 * FXP http://fxpblog.co
 * Hootsuite http://code.hootsuite.com/category/code/android/
 * Little Robots http://www.littlerobots.nl/blog/
+* Mindorks Blog https://blog.mindorks.com/
 * Novoda http://novoda.com/blog
 * Phandroid http://phandroid.com
 * Planet Android http://www.planetandroid.com
