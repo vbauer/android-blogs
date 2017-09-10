@@ -119,6 +119,7 @@ See also: https://github.com/vbauer/java-blogs
 * TheRealJoshua http://www.therealjoshua.com/blog
 * TechnoTalkative http://www.technotalkative.com
 * TechnoWorm http://technoworm.com
+* Udi Cohen http://blog.udinic.com
 * Veaceslav Gaidarji http://vgaidarji.me/#blog
 * Wiebe Elsinga http://wiebe-elsinga.com/blog/news/
 
