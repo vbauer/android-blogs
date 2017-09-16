@@ -60,6 +60,7 @@ See also: https://github.com/vbauer/java-blogs
 * Antoine Merle http://antoine-merle.com
 * Antonio Leiva http://antonioleiva.com
 * Antonio Cappiello http://antoniocappiello.com
+* Android Tech Point http://androidtechpoint.blogspot.com
 * AppCoderz https://appcoderz.com/blog
 * Arjun U. http://arjunu.com
 * Bartek Lipinski https://medium.com/@blipinsk
