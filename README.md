@@ -98,6 +98,7 @@ See also: https://github.com/vbauer/java-blogs
 * Joan Zapata http://blog.joanzapata.com
 * Jorge Castillo http://jorgecastillo.xyz
 * JPARDOGO https://medium.com/@jpardogo
+* Justin Inácio https://moducode.com/blog
 * Kaushik Gopal http://blog.kaush.co
 * Kirill Boyarshinov http://kboyarshinov.com
 * Lucas Rocha http://lucasr.org
