@@ -8,6 +8,7 @@ See also: https://github.com/vbauer/java-blogs
 * Androcid http://www.androcid.com
 * Androidized http://www.androidized.com
 * Androinica http://androinica.com
+* AndroidDvlpr https://androiddvlpr.com
 * AndroidGuys http://www.androidguys.com
 * AndroidPIT https://www.androidpit.com
 * AndroidSigma http://androidsigma.com
