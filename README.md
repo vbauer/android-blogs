@@ -53,6 +53,7 @@ See also: https://github.com/vbauer/java-blogs
 * AndroidGig http://androidgig.com
 * Android Design Patterns http://androiddesignpatterns.com
 * Android Developer http://www.therealjoshua.com/blog
+* Android Dev Notes http://www.valueof.io
 * Android Developers Backstage http://androidbackstage.blogspot.com
 * Android Social Media http://www.androidsocialmedia.com
 * Android UI/UX http://androiduiux.com
