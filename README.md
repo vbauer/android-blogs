@@ -72,6 +72,7 @@ See also: https://github.com/vbauer/java-blogs
 * Chintan Rathod http://chintanrathod.com
 * Chiu-Ki Chan http://blog.sqisland.com
 * Chris Banes  https://chris.banes.me
+* Chris Basinger https://chrisbasinger.medium.com
 * Christian Panadero http://panavtec.me
 * CodeChimp http://blog.codechimp.org
 * Codedependent http://graphics-geek.blogspot.com
